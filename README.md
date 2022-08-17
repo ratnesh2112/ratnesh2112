@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👨‍💻 Please Refer my portfolio [https://keen-fudge-674cdc.netlify.app/](https://keen-fudge-674cdc.netlify.app/)
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://keen-fudge-674cdc.netlify.app)**
 
 - 💬 Ask me about **MERN Stack , DSA**
 
