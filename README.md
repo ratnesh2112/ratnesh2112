@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://keen-fudge-674cdc.netlify.app)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://ratnesh-portfolio.vercel.app/)**
 
 - 💬 Ask me about **MERN Stack , DSA**
 
